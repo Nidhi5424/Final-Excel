@@ -89,3 +89,4 @@ The goal is to **understand business performance** through regions, categories, 
    * **Dashboard** → Interactive visualization
 3. Use slicers and filters in the dashboard to explore data.
 
+<img width="957" height="631" alt="489565413-724141ea-eacd-43aa-a7e7-75975a09f8c7" src="https://github.com/user-attachments/assets/319e99d3-90ab-49da-b22b-956d1ebd0ac0" />
